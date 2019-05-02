@@ -1,5 +1,5 @@
 # IndustryVaporPredict
-Alibaba Cloud TIANCHI Big Data Competetion
+Alibaba Cloud TIANCHI Big Data Competition
 ## Usage
 1. Run lgbm.py, elasticnet.py, ridge_lasso_svm.py separately to get the result for stacking . 
 2. Run stacking.py to get the best reslut for submittion.
